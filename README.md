@@ -25,6 +25,4 @@
   <img width=30px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
   <img width=30px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
   </div>
- 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlejoProjects)](https://github.com/AlejoProjects/github-readme-stats)
-
+ [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlejoProjects)](https://github.com/anuraghazra/github-readme-stats)
