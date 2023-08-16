@@ -1,8 +1,9 @@
 ### Hi there 👋
-👤 Name: Alejandro Gómez Serrato
-😄 Pronouns: He/Him
-📍 Location: Bgota D.C, Colombia
-📣 Languages: English & Spanish
+<ul>👤 Name: Alejandro Gómez Serrato
+  <li>😄 Pronouns: He/Him</li>
+  <li>📍 Location: Bgota D.C, Colombia</li>
+  <li>📣 Languages: English & Spanish</li>
+</ul>
 
 
 - 🌱 I’m currently learning Fullstack deve
