@@ -1,3 +1,4 @@
+<img src="AlejoProjects/blob/main/githubProfile.png" alt="Header" style="max-width: 100%;">
 ### Hi there 👋
 <div>
 <ul>
