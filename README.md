@@ -1,4 +1,4 @@
-<img src="https://github.com/AlejoProjects/files/blob/main/githubProfile.png" alt="Header" style="max-width: 100%;">
+<img src="https://github.com/AlejoProjects/files/blob/main/githubProfile.png" alt="Header" style="max-width: 100%;max-height: 80%;">
 ### Hi there 👋
 <div>
 <ul>
