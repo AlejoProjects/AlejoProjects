@@ -25,4 +25,4 @@
   <img width=30px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
   <img width=30px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
   </div>
- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AlejoProjects)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://camo.githubusercontent.com/7995e4bb5f621c0d08eb9eb46cf473ee249496d2b4ec3cfb0097323f05568fbd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f77616b6174696d653f757365726e616d653d6666666c616273266c61796f75743d636f6d70616374" alt="Harlok's wakatime stats" data-canonical-src="https://github-readme-stats.vercel.app/api/wakatime?username=AlejoProjects&amp;layout=compact" style="max-width: 100%;">
