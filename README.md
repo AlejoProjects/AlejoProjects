@@ -7,6 +7,7 @@
   <li>📍 Location: Bgota D.C, Colombia</li>
   <li>📣 Languages: English & Spanish</li>
 </ul>
+  <img align="center" src="https://camo.githubusercontent.com/ba78080976af848fc27a3d883f46e9ee84fdfb0cfa7624afe1fb29b78fee72cd/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b6576696e66656e6763733838267468656d653d6769746875625f6461726b266c61796f75743d636f6d7061637426686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoProjects88&amp;theme=github_dark&amp;layout=compact&amp;hide_border=true" style="max-width: 100%;">
 </div>
 <h3 dir="auto"><a id="user-content--social-media-" class="anchor" aria-hidden="true" href="#-social-media-"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a> Social Media </h3>
 <div align="center" dir="auto">
