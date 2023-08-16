@@ -14,6 +14,7 @@
   <a href="alejodelavinci@gmail.com"><img src="https://camo.githubusercontent.com/c24684cbf8d7d921b0974778018de3e8ab984c6f138c81461264dffde01bb9c4/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d476d61696c2d2532333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d776869746526636f6c6f723d726564" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=white&amp;color=red" style="max-width: 100%;"></a>
 </div>
   <h3>Languages:</h3>
+  <div>
   <img width=30px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
   <img width=30px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
   <img width=30px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
@@ -21,4 +22,5 @@
   <img width=30px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;
   <img width=30px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
   <img width=30px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
+  </div>
 
