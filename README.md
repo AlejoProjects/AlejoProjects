@@ -1,5 +1,5 @@
 <img src="https://github.com/AlejoProjects/files/blob/main/githubProfile.png" alt="Header" style="max-width: 100%;max-height: 60%;">
-### Hi there 👋
+<h3> Hi there 👋</h3>
 <div>
 <ul>
   <li>👤 Name: Alejandro Gómez Serrato </li>
