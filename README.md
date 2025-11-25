@@ -3,7 +3,6 @@
 <div>
 <ul>
   <li>👤 Name: Alejandro Gómez Serrato </li>
-  <li>😄 Pronouns: He/Him</li>
   <li>📍 Location: Bgota D.C, Colombia</li>
   <li>📣 Languages: English & Spanish</li>
 </ul>
