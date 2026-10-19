@@ -1,27 +1,28 @@
-<img src="https://github.com/AlejoProjects/files/blob/main/githubProfile.png" alt="Header" style="max-width: 100%;max-height: 60%;">
-<h3> Hi there 👋</h3>
-<div>
-<ul>
-  <li>👤 Name: Alejandro Gómez Serrato </li>
-  <li>📍 Location: Bgota D.C, Colombia</li>
-  <li>📣 Languages: English & Spanish</li>
-</ul>
+<div align="center">
+  <img src="https://alejoprojects.github.io/ASSETS/hero-landscape.svg" alt="Teal and gold fabric flowing over a misty mountain shore" width="100%">
+  <h1>Alejo Gómez Serrato</h1>
+  <p><strong>MLOps intern · Software · Physics</strong></p>
+  <p><a href="https://alejoprojects.github.io/">Portfolio</a> · <a href="https://github.com/AlejoProjects">GitHub</a></p>
 </div>
-  <h3>Languages</h3>
-  <div align="center">
-  <img width=30px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">&nbsp;
-  <img width=30px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">&nbsp;
-  <img width=30px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">&nbsp;
-  <img width=30px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">&nbsp;
-  <img width=30px src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png">&nbsp;
-  <img width=30px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">&nbsp;
-  <img width=30px src="https://cdn-icons-png.flaticon.com/512/518/518713.png">&nbsp;
-  </div>
-  <div align="center" style="width:110%">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejoProjects&exclude_repo=proyectos&layout=compact&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+## Current work
 
-</div>
- 
+I’m supporting MLOps operations through platform tickets, observability, code changes, and release testing.
 
+- Kubernetes platform support and Helm chart work
+- Monitoring and ticket investigation with Grafana and Datadog
+- Go code edits and canary test support
 
+## Areas I work across
+
+MLOps · Machine learning · Scientific computing · Physics · Software engineering
+
+## Tools
+
+Kubernetes · Helm · Go · Grafana · Datadog · Python · JavaScript · SQL
+
+## Explore
+
+- [Portfolio website](https://alejoprojects.github.io/)
+- [Projects](https://alejoprojects.github.io/projects.html)
+- [Education and learning](https://alejoprojects.github.io/education.html)
