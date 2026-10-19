@@ -5,8 +5,8 @@
   <p><strong>MLOps intern · Software · Physics</strong></p>
   <p>Building dependable systems around machine learning, one signal at a time.</p>
   <p>
-    <a href="https://alejoprojects.github.io/">Portfolio</a> ·
-    <a href="https://alejoprojects.github.io/projects.html">3D projects</a> ·
+    <a href="https://alejoprojects.github.io/">Personal page</a> ·
+    <a href="https://alejoprojects.github.io/projects.html">Projects</a> ·
     <a href="https://alejoprojects.github.io/education.html">Education</a>
   </p>
 </div>
