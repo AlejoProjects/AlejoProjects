@@ -1,13 +1,13 @@
 <div align="center">
-  <img src="https://alejoprojects.github.io/ASSETS/hero-landscape.svg" alt="A surreal teal and gold landscape with flowing forms over a mountain shore" width="100%">
+  <img src="https://alejoprojects.github.io/ASSETS/profile-banner.svg" alt="A surreal teal and gold landscape with flowing forms over a mountain shore" width="100%">
   <br>
   <h1>ALEJO GÓMEZ SERRATO</h1>
   <p><strong>MLOps intern · Software · Physics</strong></p>
   <p>Building dependable systems around machine learning, one signal at a time.</p>
   <p>
     <a href="https://alejoprojects.github.io/">Portfolio</a> ·
-    <a href="https://alejoprojects.github.io/projects.html">3D project atlas</a> ·
-    <a href="https://alejoprojects.github.io/education.html">Learning atlas</a>
+    <a href="https://alejoprojects.github.io/projects.html">3D projects</a> ·
+    <a href="https://alejoprojects.github.io/education.html">Education</a>
   </p>
 </div>
 
@@ -55,3 +55,4 @@ MLOps · Machine learning · Scientific computing · Physics · Software enginee
 <div align="center">
   <sub>Physics, software, and machine learning, in conversation.</sub>
 </div>
+
